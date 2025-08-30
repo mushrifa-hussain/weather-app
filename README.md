@@ -14,7 +14,7 @@ The app provides real-time weather updates, hourly forecasts, and additional wea
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19007f38-b134-4803-a71e-df6e80b2284d" alt="Weather App Screenshot" width="300"/>
 </p>
