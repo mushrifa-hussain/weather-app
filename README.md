@@ -1,16 +1,38 @@
-# weather_app
+# 🌦️ Weather App
 
-A new Flutter project.
+A cross-platform **Weather Application** built with **Flutter** using the **OpenWeather API**.  
+The app provides real-time weather updates, hourly forecasts, and additional weather details like humidity, wind speed, and pressure.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🌍 Get real-time weather by city/location
+- ⏰ Hourly weather forecast
+- 📊 Additional weather info (humidity, wind, pressure)
+- 📱 Beautiful UI with Flutter widgets
+- 🔑 Secure API key management (ignored in GitHub)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+| Home Screen | Hourly Forecast |
+|-------------|-----------------|
+| ![Weather App Screenshot](screenshot1.png) | ![Hourly Forecast Screenshot](screenshot2.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*(Add your own screenshots inside a `assets/screenshots/` folder and update the links above)*
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter** (Dart)
+- **OpenWeather API**
+- **Material Design UI**
+
+---
+
+## 📦 Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/mushrifa-hussain/weather-app.git
+
