@@ -15,9 +15,8 @@ The app provides real-time weather updates, hourly forecasts, and additional wea
 ---
 
 ## 📸 Screenshots
-| Home Screen | Hourly Forecast |
-|-------------|-----------------|
-| ![Weather App Screenshot](screenshot1.png) | ![Hourly Forecast Screenshot](screenshot2.png) |
+![WhatsApp Image 2025-08-17 at 16 19 47_fd706283](https://github.com/user-attachments/assets/19007f38-b134-4803-a71e-df6e80b2284d)
+
 
 *(Add your own screenshots inside a `assets/screenshots/` folder and update the links above)*
 
